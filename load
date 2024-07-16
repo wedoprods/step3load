@@ -1,3 +1,4 @@
+wait(1)
 --4th
 script.parent = game.Players.LocalPlayer.PlayerGui.ScreenGui
 
