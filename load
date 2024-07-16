@@ -1,9 +1,3 @@
-wait(1)
---4th
-script.Parent = game.Players.LocalPlayer.PlayerGui.ScreenGui
-
-script.Name = "ClientScript"
-
 warn("[Data Loaded]\nWelcome to Mining Simulator! Exploiting or Cheating in any way, shape, or form may result in a ban, or items being removed.\nPlease make sure you abide by the Roblox Rules and Terms of Service while playing.\n\t\nHave fun!\n");
 local l__TweenService__1 = game:GetService("TweenService");
 local l__UserInputService__2 = game:GetService("UserInputService");
