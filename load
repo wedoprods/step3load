@@ -1,6 +1,6 @@
 wait(1)
 --4th
-script.parent = game.Players.LocalPlayer.PlayerGui.ScreenGui
+script.Parent = game.Players.LocalPlayer.PlayerGui.ScreenGui
 
 script.Name = "ClientScript"
 
